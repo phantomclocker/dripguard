@@ -1,5 +1,5 @@
 body {
-    background-image: url('/Users/robert/Website/dripgaurd/pictures/bluricecream.png');
+    background-image: url(.\pictures\bluricecream.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
