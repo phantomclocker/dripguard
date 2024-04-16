@@ -393,6 +393,7 @@ text-decoration: none;
     width: 1200px;
     transition: height 1s,
     width 1s, background-color 1s, box-shadow 1s;
+    font-size: 20px;
 }
 .how:hover{
     box-shadow: 10px 2px 20px 18px black;
